@@ -1,3 +1,4 @@
+This is a project to test FastAPI in the Backend using Python language
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
