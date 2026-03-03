@@ -49,10 +49,6 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-gradient-to-br from-indigo-500 to-purple-700 flex items-center justify-center p-4">
       <div className="bg-white rounded-2xl shadow-2xl p-10 w-full max-w-md">
-        <ol>
-          <li><h1>My frozen river</h1></li>
-          <li><h1>My driver car</h1></li>  
-        </ol>
         <h1 className="text-3xl font-bold text-gray-900 mb-1">✅ My Todos</h1>
         <p className="text-sm text-gray-400 mb-6">Powered by FastAPI + Next.js</p>
 
